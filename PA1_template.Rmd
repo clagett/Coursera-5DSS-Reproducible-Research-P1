@@ -1,9 +1,4 @@
----
-title: "Reproducible Research Project 1"
-output:
-  html_document: default
-  pdf_document: default
----
+
 ## Loading and Preprocessing the data  
 The file zip is downloaded online and unzipped. The data is stored in a variable called `activitydata`
 
